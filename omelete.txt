@@ -1,2 +1,4 @@
 eggs
 omelete
+
+egg fact: eggs hatch.
